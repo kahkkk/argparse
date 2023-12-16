@@ -2,6 +2,11 @@
 name = "argparse"
 version = "0.1.0"
 edition = "2021"
+description = "A personal minimal simple made command line arguments parser."
+license = "MIT OR Apache-2.0"
+
+authors = ["solidbunny"]
+keywords = ["cli", "learn", "test"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
