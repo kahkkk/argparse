@@ -1,5 +1,5 @@
 [package]
-name = "@solidbunny/argparse"
+name = "phosphophyllite"
 version = "0.1.0"
 edition = "2021"
 description = "A personal minimal simple made command line arguments parser."
